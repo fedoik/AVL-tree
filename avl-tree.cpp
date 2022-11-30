@@ -3,7 +3,6 @@
 #include<typeinfo>
 #include<set>
 using namespace std;
-//seminar5.1(2.4, 2.5)
 template <class V, class T>
 class TreeIterator;
 
